@@ -94,7 +94,7 @@ export default function TicTacToe() {
 
 
 
-                  <span className="o">✔</span>
+                  <span className="o">O</span>
                 ) : null}
                       </div>
             )
