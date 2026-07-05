@@ -1,6 +1,6 @@
 
 # Tic Tac Toe — 
-Tic Tac Toe APP.
+Tic Tac Toe app.
 
 Steps:
 
